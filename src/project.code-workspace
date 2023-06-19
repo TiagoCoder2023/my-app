@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"name": "project",
+			"path": "../../../project"
+		},
+		{
+			"name": "website HTML CSS JS",
+			"path": "../../../website HTML CSS JS"
+		},
+		{
+			"name": "estudos",
+			"path": "../../../estudos"
+		},
+		{
+			"name": "dom",
+			"path": "../../../dom"
+		},
+		{
+			"name": "nlw spacetime",
+			"path": "../../../nlw spacetime"
+		},
+		{
+			"name": "assets",
+			"path": "../../../../Downloads/assets"
+		},
+		{
+			"name": "estudando objetos",
+			"path": "../../../estudando objetos"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "react"
+	}
+}
